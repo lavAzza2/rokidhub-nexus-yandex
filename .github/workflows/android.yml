@@ -17,5 +17,4 @@ jobs:
           cache: gradle
       - uses: android-actions/setup-android@v3
       - name: Test and build debug APK
-        run: ./gradlew testDebugUnitTest assembleDebug
-
+        run: bash ./gradlew testDebugUnitTest assembleDebug
