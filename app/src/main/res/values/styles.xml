@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.RokidHub" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#55E58D</item>
+        <item name="android:navigationBarColor">#030C06</item>
+        <item name="android:statusBarColor">#030C06</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
